@@ -1,10 +1,10 @@
 # Detect palindrom string task
 
 ### String are given. Implement a function - detectPalindrom, that can detect palindrom string. 
-* 1)Given argument not an string - return 'Passed argument is not a string'.
-* 2)Given string is empty - return 'String is empty'. 
-* 3)Given string palindrom - return 'This string is palindrom!'.
-* 4)Given string is not a palindrom - return  'This string is not a palindrom!'
+ 1)Given argument not an string - return 'Passed argument is not a string'.
+ 2)Given string is empty - return 'String is empty'. 
+ 3)Given string palindrom - return 'This string is palindrom!'.
+ 4)Given string is not a palindrom - return  'This string is not a palindrom!'
 Also, no case sensitive.
 
 #### For example:
