@@ -13,7 +13,7 @@ Also, no case sensitive.
 - detectPalindrom(true) // "Passed argument is not a string"
 - detectPalindrom('') // "String is empty"
 - detectPalindrom("TARARAT") // 'This string is palindrom!'
-- detectPalindrom("testtest")) // 'This string is not a palindrom!'
+- detectPalindrom("testtest") // 'This string is not a palindrom!'
 ```
 <hr>
 
