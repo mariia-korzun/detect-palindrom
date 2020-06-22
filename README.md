@@ -1,6 +1,10 @@
 # Detect palindrom string task
 
-### String are given. Implement a function - detectPalindrom, that can detect palindrom string. If given argument not an string - return "Passed argument is not a string". If given string is empty - return "String is empty". Also, case sensitive.
+### String are given. Implement a function - detectPalindrom, that can detect palindrom string.
+1. Given argument not an string - return "Passed argument is not a string".
+2. Given string is empty - return "String is empty". 
+
+#### Also, NO case sensitive.
 
 #### For example:
 ```js
