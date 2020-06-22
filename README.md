@@ -13,7 +13,7 @@
 - detectPalindrom(true) // "Passed argument is not a string"
 - detectPalindrom('') // "String is empty"
 - detectPalindrom("TARARAT") // 'This string is palindrom!'
-- detectPalindrom("I can fly ylf nac i") 'This string is palindrom!'
+- detectPalindrom("I can fly ylf nac i") // 'This string is palindrom!'
 - detectPalindrom("testtest") // 'This string is not a palindrom!'
 ```
 <hr>
