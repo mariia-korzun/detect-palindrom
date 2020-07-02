@@ -1,20 +1,18 @@
-# Detect palindrom string task
+# Detect palindrome string task
 
-### String are given. Implement a function - detectPalindrom, that can detect palindrom string. 
-1. Given argument not an string - return 'Passed argument is not a string'.
-2. Given string is empty - return 'String is empty'. 
-3. Given string palindrom - return 'This string is palindrom!'.
-4. Given string is not a palindrom - return  'This string is not a palindrom!'
-
-#### Also, no case sensitive.
+### A string is given. Create a function called “detectPalindrome” that can detect if the string is a palindrome. The function should be case insensitive.
+1. If the given argument is not a string,  return 'Passed argument is not a string'.
+2. If the given string is empty, return 'String is empty'.
+3. If the given string is a palindrome,  return 'This string is palindrome!'.
+4. If the given string not a palindrome, return 'This string is not a palindrome!'
 
 #### For example:
 ```js
 - detectPalindrom(true) // "Passed argument is not a string"
 - detectPalindrom('') // "String is empty"
-- detectPalindrom("TARARAT") // 'This string is palindrom!'
+- detectPalindrom("TARARAT") // 'This string is palindrome!'
 - detectPalindrom("I can fly ylf nac i") // 'This string is palindrom!'
-- detectPalindrom("testtest") // 'This string is not a palindrom!'
+- detectPalindrom("testtest") // 'This string is not a palindrome!'
 ```
 <hr>
 
