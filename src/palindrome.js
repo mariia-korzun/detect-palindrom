@@ -13,6 +13,6 @@ function isSubStringPolindrome(string) {
         return 'This string is not a palindrome!'
     }
     return isSubStringPolindrome(string.slice(1, len-1))
-};
+}
 
 module.exports = detectPalindrome;
